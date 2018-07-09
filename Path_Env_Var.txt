@@ -1,0 +1,1 @@
+;C:\opencv-2.4.13\opencv\build\x64\vc12\bin
